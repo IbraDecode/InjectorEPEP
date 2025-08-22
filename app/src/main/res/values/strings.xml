@@ -1,0 +1,13 @@
+<resources>
+	<string name="app_name">Injector iOS</string>
+	<string name="panel_title">Panel Xiters Cheats Android</string>
+	<string name="home_subtitle">Pilih Opsi yang Diinginkan di Bawah!</string>
+	<string name="start_game">Mulai Game</string>
+	<string name="start_injector">Mulai Injektor</string>
+	<string name="login_title">Silakan Login Untuk Memulai!</string>
+	<string name="username_hint">Nama Pengguna:</string>
+	<string name="password_hint">Kata Sandi:</string>
+	<string name="login_button">MASUK</string>
+	<string name="no_login_text">Tidak Punya Akun? Dapatkan Disini!</string>
+</resources>
+
